@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Programming Fundamental Finals Report
 ---
 
 * TOC
@@ -8,18 +8,13 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+I am a highschool student who enjoys playing piano, tennis.
 
 ## About My Project
 
-Project description goes here.
+The project I want to be working on is learning Java, and I will learn about Java through codeacademy
 
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
-
 [My Blog](blog.html)
